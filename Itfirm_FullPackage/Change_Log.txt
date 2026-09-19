@@ -1,0 +1,207 @@
+-----------------------------------------------------------------------------------------
+Version 1.4.2 - January 04, 2025
+-----------------------------------------------------------------------------------------
+
+- UPDATE: WordPress 6.7.x Compatibility
++ UPDATE: Case Theme Core plugin - v1.2.5
+- Full Compatibility with Elementor 3.26.3
+- Full Compatibility with WooCommerce 9.5.1
+- Full Compatibility with Redux Framework 4.5.4
++ UPDATE: Slider Revolution plugin - v6.7.25
++ FIXED: Bugs
+
+-----------------------------------------------------------------------------------------
+Version 1.4.1 - October 30, 2024
+-----------------------------------------------------------------------------------------
+
+- Full Compatibility with Elementor 3.25.3
+- Full Compatibility with WooCommerce 9.3.3
+- Full Compatibility with Redux Framework 4.5.x
++ UPDATE: Slider Revolution plugin - v6.7.20
++ UPDATE: Case Theme Core plugin - v1.1.3
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.4.0 - May 28, 2024
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.5.x Compatibility
++ Full Compatibility with Elementor 3.21.x
++ Full Compatibility with Redux Framework 4.4.17
+- Full Compatibility with WooCommerce 8.9.x
++ UPDATE: Case Theme Core plugin - v1.1.9
++ UPDATE: Slider Revolution plugin - v6.7.12
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.9 - January 09, 2024
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.4.x Compatibility
++ Full Compatibility with Elementor 3.18.x
++ Full Compatibility with Redux Framework 4.4.x
+- Full Compatibility with WooCommerce 8.4.x
++ UPDATE: Case Theme Core plugin - v1.1.8
++ UPDATE: Slider Revolution plugin - v6.6.20
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.8 - September 21, 2023
+-----------------------------------------------------------------------------------------
+
+- Full Compatibility with PHP version 8.x
+- NEW: WordPress 6.2.x Compatibility
+- Full Compatibility with Elementor 3.16.x
++ UPDATE: Slider Revolution plugin - v6.6.15
+- Full Compatibility with WooCommerce 8.1.x
++ UPDATE: Case Theme Core plugin - v1.1.6
+- Full Compatibility with Redux Framework 4.4.x
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.7 - March 09, 2023
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home 9 (Multi Pages + One Page)
++ ADDED: Login Page + Register Page
++ ADDED: Header Layout 9
++ ADDED: Footer Layout 9
++ ADDED: Counter Widget Style
++ ADDED: Services Carousel Style
++ ADDED: Team Carousel Style
++ ADDED: Testimonial Carousel Style
++ ADDED: Portfolio Grid Style
++ ADDED: Blog Carousel Style
++ UPDATE: Slider Revolution plugin - v6.6.11
++ UPDATE: Case Theme Core plugin - v1.1.5
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.6 - January 03, 2023
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home 7 & 8 (Multi Pages + One Page)
++ ADDED: Header Layout 7 & 8
++ ADDED: Footer Layout 7 & 8
++ ADDED: Counter Widget Style
++ ADDED: Services Carousel Style
++ ADDED: Team Carousel Style
++ ADDED: Testimonial Carousel Style
++ ADDED: Portfolio Carousel Style
++ ADDED: Blog Carousel Style
++ UPDATE: Slider Revolution plugin - v6.6.8
++ UPDATE: Case Theme Core plugin - v1.1.3
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.5 - October 07, 2022
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home RTL
++ ADDED: Elements
++ UPDATE: Slider Revolution plugin - v6.5.31
+- Full Compatibility with WooCommerce 6.9.x
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.4 - September 10, 2022
+-----------------------------------------------------------------------------------------
+
++ UPDATE: Case Theme Import plugin - v1.0.3
++ FIXED: Replace demo image path in element page builder.
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.3 - August 02, 2022
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 6.0.x Compatibility
+- Full Compatibility with Elementor 3.8.x
++ UPDATE: Slider Revolution plugin - v6.5.25
+- Full Compatibility with WooCommerce 6.7.x
++ UPDATE: Case Theme Core plugin - v1.1.2
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.2 - May 11, 2022
+-----------------------------------------------------------------------------------------
+
+- Save theme options due to limited memory.
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3.1 - April 12, 2022
+-----------------------------------------------------------------------------------------
+
+- Full Compatibility with WordPress 5.9.3
+- Full Compatibility with Elementor 3.6.2
+- Full Compatibility with WooCommerce 6.3.1
+- Full Compatibility with Redux Framework 4.3.12
++ UPDATE: Slider Revolution plugin - v6.5.19
++ UPDATE: Case Theme Core plugin - v1.1.2
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.3 - February 08, 2021
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home 06 (Multipage + Onepage)
++ ADDED: New Header Layout
++ ADDED: Pricing Widget Style
++ ADDED: Fancy Box Widget Style
++ ADDED: Blog Carousel Widget Style
++ ADDED: Testimonial Carousel Widget Style
+
+
+-----------------------------------------------------------------------------------------
+Version 1.2.1 - January 26, 2022
+-----------------------------------------------------------------------------------------
+
+- NEW: WordPress 5.9 Compatibility
+- Full Compatibility with Elementor 3.5.x
++ UPDATE: Slider Revolution plugin - v6.5.9
+- Full Compatibility with WooCommerce 6.1.x
++ UPDATE: Case Theme Core plugin - v1.1.0
++ FIXED: Bugs
+
+
+-----------------------------------------------------------------------------------------
+Version 1.2 - December 22, 2021
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home 05 (Multipage + Onepage)
++ ADDED: New Header Layout
++ ADDED: Process Widget
++ ADDED: Fancy Box Widget Style
++ ADDED: Portfolio Carousel Widget Style
++ ADDED: Testimonial Carousel Widget Style
++ RTL Support
+
+
+-----------------------------------------------------------------------------------------
+Version 1.1 - December 14, 2021
+-----------------------------------------------------------------------------------------
+
++ ADDED: Home 04 (Multipage + Onepage)
++ ADDED: New Header Layout
++ ADDED: List Single Widget
++ ADDED: Steps Widget
++ ADDED: Fancy Box Widget Style
++ ADDED: Progress Bar Widget Style
++ ADDED: Video Button Widget Style
++ ADDED: Counter Widget Style
++ ADDED: Service Carousel Widget Style
+
+
+-----------------------------------------------------------------------------------------
+Version 1.0 - December 10, 2021
+-----------------------------------------------------------------------------------------
+
+- Initial release

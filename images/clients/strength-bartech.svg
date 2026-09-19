@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 120" width="100%" height="100%">
+  <!-- Top Red Accent Bar -->
+  <line x1="15" y1="18" x2="425" y2="18" stroke="#b91c1c" stroke-width="4.5" stroke-linecap="square"/>
+  
+  <!-- Bottom Red Accent Bar -->
+  <line x1="15" y1="102" x2="425" y2="102" stroke="#b91c1c" stroke-width="4.5" stroke-linecap="square"/>
+
+  <!-- Main Title: STRENGTH -->
+  <text x="25" y="56" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="40" fill="#0f172a" letter-spacing="4">STRENGTH</text>
+
+  <!-- Barcode Graphic (Left of BARTECH) -->
+  <g transform="translate(25, 68)">
+    <rect x="0" y="0" width="5" height="24" fill="#0f172a"/>
+    <rect x="8" y="0" width="2" height="24" fill="#0f172a"/>
+    <rect x="13" y="0" width="7" height="24" fill="#0f172a"/>
+    <rect x="23" y="0" width="3" height="24" fill="#0f172a"/>
+    <rect x="29" y="0" width="6" height="24" fill="#0f172a"/>
+    <rect x="38" y="0" width="2" height="24" fill="#0f172a"/>
+  </g>
+
+  <!-- Subtitle: BARTECH -->
+  <text x="75" y="92" font-family="'Arial Black', 'Impact', sans-serif" font-weight="900" font-size="34" fill="#0f172a" letter-spacing="4">BARTECH</text>
+</svg>

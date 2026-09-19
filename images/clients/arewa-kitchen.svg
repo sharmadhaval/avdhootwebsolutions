@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 140" width="100%" height="100%">
+  <!-- Top Diagonal Roof Line Motif above Arewa -->
+  <line x1="165" y1="18" x2="225" y2="52" stroke="#18181b" stroke-width="4.5" stroke-linecap="round"/>
+
+  <!-- Hindi Script: अरेवा -->
+  <text x="220" y="85" font-family="'Nirmala UI', 'Mangal', 'Kohinoor Devanagari', 'Yantramanav', sans-serif" font-weight="700" font-size="54" fill="#18181b" text-anchor="middle" letter-spacing="1">अरेवा</text>
+
+  <!-- Subtitle: KITCHEN -->
+  <text x="220" y="118" font-family="'Inter', 'Montserrat', sans-serif" font-weight="600" font-size="16" fill="#27272a" text-anchor="middle" letter-spacing="6">KITCHEN</text>
+</svg>
